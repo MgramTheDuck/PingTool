@@ -10,7 +10,7 @@
 
 .NOTES
     File Name      : PIngTool.ps1
-    Author         : Em Gram
+    Author         : MgramTheDuck
     Prerequisite   : PowerShell 5.1 or later
     Created        : June 22, 2025
     Version        : 1.0
