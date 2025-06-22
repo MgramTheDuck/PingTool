@@ -20,7 +20,7 @@
     Runs the script and prompts for an IP address or hostname to monitor
 
 .LINK
-    https://github.com/yourusername/PingTool
+    https://github.com/MgramTheDuck/PingTool
 #>
 
 $ip = Read-Host "Enter the IP address or hostname to ping"
